@@ -4,7 +4,6 @@ export default [
 { href: './html/Hollow knight degraded/index.html', imgSrc: 'hollow knight degraded.jpeg', name: 'Hollow knight degraded' , 'page': 5, 'id': 874 },
 { href: './html/Fabled Conquerors/index.html', imgSrc: 'fabled conquerors.jpeg', name: 'Fabled Conquerors' , 'page': 5, 'id': 811 },
 { href: './html/Escaping the prison/index.html', imgSrc: 'escaping the prison.jpeg', name: 'Escaping the prison' , 'page': 5, 'id': 810 },
-{ href: './html/Drift Hunters/index.html', imgSrc: 'drift hunters.jpeg', name: 'Drift Hunters' , 'page': 5, 'id': 798 },
 { href: './html/DOOM/index.html', imgSrc: 'doom.jpeg', name: 'DOOM' , 'page': 5, 'id': 795 },
 { href: './html/Choppy Orc/index.html', imgSrc: 'choppy orc.jpeg', name: 'Choppy Orc' , 'page': 5, 'id': 790 },
 { href: './html/Case Clicker 2/index.html', imgSrc: 'case clicker 2.jpeg', name: 'Case Clicker 2' , 'page': 5, 'id': 780 },
