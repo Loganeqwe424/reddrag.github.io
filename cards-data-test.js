@@ -22,7 +22,6 @@ export default [
 { href: './html/Sandboxels/index.html', imgSrc: 'sandboxels.jpeg', name: 'Sandboxels' , 'page': 5, 'id': 940 },
 { href: './html/Rubix/index.html', imgSrc: 'rubix.jpeg', name: 'Rubix' , 'page': 5, 'id': 939 },
 { href: './html/Rodha/index.html', imgSrc: 'rodha.jpeg', name: 'Rodha' , 'page': 5, 'id': 931 },
-{ href: './html/Ragdoll Archers/index.html', imgSrc: 'ragdoll archers.jpeg', name: 'Ragdoll Archers' , 'page': 5, 'id': 926 },
 { href: './html/Orcs vs elves/index.html', imgSrc: 'orcs vs elves.jpeg', name: 'Orcs vs elves' , 'page': 5, 'id': 924 },
 { href: './html/One trick mage/index.html', imgSrc: 'one trick mage.jpeg', name: 'One trick mage' , 'page': 5, 'id': 912 },
 { href: './html/Like a king/index.html', imgSrc: 'like a king.jpeg', name: 'Like a king' , 'page': 5, 'id': 910 },
