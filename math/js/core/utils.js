@@ -410,7 +410,8 @@ export function createPanel(className, titleText, classNameClose, textInnerHTML)
     return panel;
 }
 
-export function createImagePopUp(title, description, imageURL, imageWidth, imageHeight, loadingFunction = null, modelBtnText = "3D Model", evolutionFunction = null, evolutionBtnText = "Evolution Info") {
+export function createImagePopUp(title, description, imageURL, imageWidth, imageHeight, loadingFunction 
+    = null, modelBtnText = "3D Model", evolutionFunction = null, evolutionBtnText = "Evolution Info") {
     console.log(title)
     if (title === 'Phalange') {
         localStorage.setItem('approved','true')
